@@ -1,4 +1,4 @@
-![syamsulalam](github-header-banner.png)
+
   <img height="150" src="github-header-banner.png"  />
 </div>
 <img align="right" height="103" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1qYTRrYXd6NnBmOTluNWd1aDVncjFreGRlYndveDhmNzJ1NmE1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif"  />
